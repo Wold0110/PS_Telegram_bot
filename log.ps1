@@ -1,0 +1,1 @@
+Add-Content -path ("log\"+(get-date -format "yyyy-MM-dd")+".log") -value ("["+(get-date -format "HH:mm:ss")+"] "+$args[0]) -Encoding utf8

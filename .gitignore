@@ -1,0 +1,5 @@
+industrial_pc_data.txt
+log/*
+!log
+cfg/bot.token
+cfg/ping_target.txt
